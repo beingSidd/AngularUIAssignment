@@ -1,0 +1,502 @@
+.mainContainer{
+
+    /* background-color: yellow; */
+    /* height: 1800px; */
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 2145px;
+background: #FCFCFF 0% 0% no-repeat padding-box;
+opacity: 1;
+overflow: hidden;
+
+}
+.biggerCircleBackground{
+position: absolute;
+top: -227.9068603515625px;
+left: 852px;
+width: 1067.74px;
+height: 964.39px;
+/* transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0); */
+background: transparent url('/assets/appImages/biggerCircleBackground1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+   
+}
+
+
+.menuOptions{
+    display: inline;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.bolbBackground{
+position: absolute;
+top: 213px;
+left: -179px;
+width: 571px;
+height: 572px;
+background: transparent url('/assets/appImages/blob1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.group6{
+    position: absolute;
+    top: 235px;
+left: 1100px;
+width: 778px;
+right: 132      ;
+height: 756px;
+z-index: 1;
+/* background: transparent url('img/Group 6.png') 0% 0% no-repeat padding-box; */
+background: transparent url('/assets/appImages/Group6.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.collect{
+    position: relative;
+    top: 466px;
+left: 136px;
+width: 652px;
+height: 365px;
+background: transparent url('/assets/appImages/colllect1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+
+.imageSuper{
+position: absolute;
+top: 270px;
+left: 189px;
+width: 407px;
+height: 98px;
+background: transparent url('/assets/appImages/simple1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.rectangle{
+position: absolute;
+    top: 376px;
+left: 192px;
+width: 236px;
+height: 8px;
+background: #000000 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 0.7;
+}
+.logo{
+    top: 27px;
+    position: absolute;
+left: 120px;
+width: 123px;
+height: 123px;
+background: transparent url('/assets/appImages/logo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.accountingDots{
+    top: 796px;
+    left: 462px;
+    width: 430px;
+    height: 70px;
+    opacity: 1;
+    position: absolute;
+    background: transparent url('/assets/appImages/accounting1.png') 0% 0% no-repeat padding-box;
+
+}
+.accountingDotsRight{
+position: absolute;
+top: 936px;
+left: 1458px;
+width: 430px;
+height: 70px;
+background: transparent url('/assets/appImages/accounting1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+
+.products{
+
+position: absolute;
+top: 68px;
+left: 1030px;
+width: 103px;
+height: 34px;
+text-align: left;
+font: normal normal normal 25px/34px Open Sans;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+.Solution{
+position: absolute;  
+top: 68px;
+left: 1183px;
+width: 108px;
+height: 34px;
+text-align: left;
+font: normal normal normal 25px/34px Open Sans;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;   
+
+
+}
+
+
+.Pricing{
+position: absolute;
+top: 68px;
+left: 1341px;
+width: 79px;
+height: 34px;
+text-align: left;
+
+font: normal normal normal 25px/34px Open Sans;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+.Login{
+position: absolute;    
+top: 76px;
+left: 1516px;
+width: 46px;
+height: 19px;
+text-align: center;
+letter-spacing: 0px;
+color: #663399;
+opacity: 1;
+
+
+
+
+}
+
+.LoginBox{
+position: absolute;   
+top: 63px;
+left: 1480px;
+width: 118px;
+height: 45px;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+opacity: 1;
+}
+
+
+
+/* .GetStartedBox{
+position: absolute;     
+top: 63px;
+left: 1622px;
+width: 166px;
+height: 45px;
+background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 20px #00000033;
+border-radius: 24px;
+opacity: 1;
+
+
+}  */
+
+
+ .GetStartedBox{
+    position: absolute;
+    top: 63px;
+    left: 1622px;
+    width: 166px;
+    height: 45px;
+    background: transparent linear-gradient(90deg, rgba(159, 98, 201, 1) 0%, rgba(102, 51, 153, 1) 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 24px;
+    opacity: 1;
+    color: rgba(255, 255, 255, 1);
+    
+} 
+.GetStarted{
+    position: absolute;
+    top: 76px;
+    left: 1658px;
+    width: 94px;
+    height: 19px;
+    text-align: center;
+    letter-spacing: 0px;
+    
+    opacity: 1;
+    
+ }
+ 
+ .rectangleCopy23{
+    position: absolute;
+    top: 1137px;
+    left: 191px;
+    width: 391px;
+    height: 253px;
+    /* background: transparent url('/assets/appImages/RectangleCopy23.png') 0% 0% no-repeat padding-box; */
+     box-shadow: 0px 0px 30px rgba(35, 33, 50, 0.12); 
+     border: 1px solid rgba(255, 255, 255, 1); 
+    border-radius: 20px;
+    opacity: 1;
+    background-color: rgba(249, 249, 249, 1);
+     
+
+ }
+
+ .paidInstantly{
+    position: absolute;
+    top: 1171px;
+    left: 225px;
+    width: 90px;
+    height: 90px;
+    background: transparent url('/assets/appImages/paidInstantly1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+ }
+ .qucikDisburse{
+    position: absolute;
+    top: 1280px;
+    left: 225px;
+    width: 323px;
+    height: 19px;
+    background: transparent url('/assets/appImages/quickCash1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+
+ }
+ .termLoan{
+    position: absolute;
+    top: 1310px;
+    left: 225px;
+    width: 323px;
+    height: 38px;
+    background: transparent url('/assets/appImages/termLoans2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+ }
+ .businessFinancesBox{
+    position: absolute;
+    top: 1261px;
+    left: 630px;
+    width: 390px;
+     height: 272px; 
+    /* height: 400px; */
+     /* background: transparent url('/assets/appImages/rectangle2.png') 0% 0% no-repeat padding-box;  */
+    opacity: 0.5;
+     border-radius: 20px;
+    box-shadow: 0px 0px 30px rgba(35, 33, 50, 0.12); 
+     background-color: rgba(102, 51, 153, 1);  
+
+ }
+ .businessFinancesImage{
+     position: absolute;
+    top: 1291px;
+    left: 664px;
+    width: 90px;
+    height: 90px;
+    background: transparent url('/assets/appImages/freelancer1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+ }
+ .businessFinancesHeading{
+     position: absolute;
+    top: 1401px;
+     left: 663px; 
+    /* left: 700px; */
+    width: 323px;
+    height: 19px;
+    background: transparent url('/assets/appImages/aceBusinessFinance1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+ }
+ .businessFinancesContent{
+     position: absolute;
+    top: 1431px;
+     left: 663px; 
+    /* left: 700px; */
+    width: 323px;
+    height: 38px;
+    background: transparent url('/assets/appImages/manageBanking1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ .lowInterestRateBox{
+     position: absolute;
+    top: 1450px;
+    left: 191px;
+    width: 391px;
+    height: 276px;
+    /* background: transparent url('/assets/appImages/rectangle19.png') 0% 0% no-repeat padding-box; */
+    box-shadow: 0px 0px 30px rgba(35, 33, 50, 0.12);
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    opacity: 1;
+    background-color: rgba(249, 249, 249, 1);
+ }
+ .lowInterestRateImage{
+    position: absolute;
+    top: 1484px;
+    left: 225px;
+    width: 90px;
+    height: 90px;
+    background: transparent url('/assets/appImages/lowInterest.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ .lowInterestRateHeading{
+    position: absolute;
+    top: 1593px;
+    left: 225px;
+    width: 323px;
+    height: 19px;
+    background: transparent url('/assets/appImages/lowInterestHeading.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ .lowInterestRateContent{
+    position: absolute;
+    top: 1624px;
+    left: 225px;
+    width: 323px;
+    height: 57px;
+    background: transparent url('/assets/appImages/achievenFinance.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ .loansForCovidBox{
+    position: absolute; 
+    top: 1593px;
+    left: 630px;
+    width: 390px;
+    height: 253px;
+    /* background: transparent url('/assets/appImages/rectangle25.png') 0% 0% no-repeat padding-box; */
+    box-shadow: 0px 0px 30px rgba(35, 33, 50, 0.12);
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    opacity: 1;
+    background-color: rgba(249, 249, 249, 1);
+ }
+ .loansForCovidImage{
+    position: absolute; 
+    top: 1627px;
+    left: 663px;
+    width: 90px;
+    height: 90px;
+    background: transparent url('/assets/appImages/covid.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ .loansForCovidHeading{
+    position: absolute; 
+    top: 1737px;
+    left: 663px;
+    width: 323px;
+    height: 19px;
+    background: transparent url('/assets/appImages/loansToFightCovid.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ .loansForCovidContent{
+    position: absolute; 
+    top: 1767px;
+    left: 663px;
+    width: 323px;
+    height: 38px;
+    background: transparent url('/assets/appImages/zeroEmi.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+.paperworkBox{
+    position: absolute; 
+    top: 1786px;
+    left: 191px;
+    width: 391px;
+    height: 276px;
+    /* background: transparent url('/assets/appImages/rectangle17.png') 0% 0% no-repeat padding-box; */
+    box-shadow: 0px 0px 30px rgba(35, 33, 50, 0.12);
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    opacity: 1;
+    background-color: rgba(249, 249, 249, 1);
+}
+
+.paperworkImage{
+    position: absolute; 
+    top: 1820px;
+    left: 224px;
+    width: 91px;
+    height: 90px;
+    background: transparent url('/assets/appImages/securePayments.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.paperworkHeading{
+    position: absolute; 
+    top: 1929px;
+    left: 225px;
+    width: 323px;
+    height: 19px;
+    background: transparent url('/assets/appImages/zeroPaper.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.paperworkContent{
+    position: absolute; 
+    top: 1960px;
+    left: 225px;
+    width: 323px;
+    height: 38px;
+    background: transparent url('/assets/appImages/getStarted.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.backgroundWave{
+    position: absolute;
+    top: 1209px;
+    left: 0.0001220703125px;
+    width: 1920px;
+    height: 936px;
+     background: transparent url('/assets/appImages/waveBackground.png') 0% 0% no-repeat padding-box; 
+    opacity: 1;
+}
+
+.boostBusinessHeading{
+    position: absolute;
+    top: 1377px;
+    left: 1158px;
+    width: 490px;
+    height: 98px;
+    background: transparent url('/assets/appImages/boostBusiness.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.boostBusinessHeadingUnderline{
+    position: absolute;
+    top: 1528px;
+    left: 1158px;
+    width: 120px;
+    height: 0px;
+    background: transparent url('/assets/appImages/line3.png') 0% 0% no-repeat padding-box;
+    border: 4px solid rgba(112, 112, 112, 1);
+    opacity: 1;
+}
+.getHandsOn{
+    position: absolute;
+    top: 1561px;
+    left: 1158px;
+    width: 490px;
+    height: 44px;
+    background: transparent url('/assets/appImages/getHandsOn.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.openAccount{
+    position: absolute;
+    top: 1704px;
+    left: 1191px;
+    width: 198px;
+    height: 22px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: rgba(102, 51, 153, 1);
+    opacity: 1;
+}
+.openAccountOutline{
+    position: absolute;
+    top: 1686px;
+    left: 1158px;
+    width: 279px;
+    height: 58px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    border: 2px solid rgba(102, 51, 153, 1);
+    border-radius: 24px;
+    opacity: 1;
+
+}
